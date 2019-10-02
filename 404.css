@@ -1,0 +1,70 @@
+.ph1 {
+position:absolute;
+top: 4%;
+left:50%;
+
+}
+body{
+	background-image:url(index1.jpg);
+}
+
+
+article {
+  position:absolute;
+  right:73.8%;
+  top:63%;
+text-shadow: 2px 2px 8px #FF0000;  
+	
+}
+	
+#test{
+    animation: Test 1s infinite;
+	font-size:25;
+	color: #F5F5F5;
+	
+}
+@keyframes Test{
+    0%{opacity: 1;}
+    50%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+
+.P1 {
+	position:absolute;
+	top:30%;
+	left:45%;
+	color:    	#FF0000;
+	font-size: 20;
+}
+
+
+.P2{
+	
+	position:absolute;
+	top:26.8%;
+	left:65%;
+	color:    	#FF0000;
+	font-size: 20;
+	
+}
+h1 {
+	position:relative;
+	top:50%;
+	left:20%;
+
+}
+
+
+
+.ph2 {
+	position:absolute;
+	top:67%;
+	right:74%;
+
+}
+	
+	
+	
+	
+	
